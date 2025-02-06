@@ -60,3 +60,9 @@ dataset/*
 /notebooks
 /local_scripts
 /notes
+
+# Tomas' personal files
+/audios_experimentos
+/audio_files
+/hyperparams_experiments
+.env
